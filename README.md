@@ -1,6 +1,6 @@
 # Hi 👋, I'm Wenli Jia
 
-I am a passionate full-stack web developer, thriving on crafting seamless digital experiences that prioritize user needs and preferences. I recently graduated from Holmesglen with a diploma in Information Technology (Web Development).
+I am a passionate full-stack web developer👩🏻‍💻, thriving on crafting seamless digital experiences that prioritize user needs and preferences. I recently graduated from Holmesglen with a diploma in Information Technology (Web Development).
 
 ## 🚀Areas of Expertise
 - **Frontend**: JavaScript, React, Next.js, Svelte
